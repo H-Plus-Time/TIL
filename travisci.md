@@ -1,0 +1,2 @@
+# Travis CI
+Apparently, it has built-in cron jobs (currently in beta), which makes it quite simple to compose git repositories into single build artefacts (in this case, a personal site that pulls in blog posts from a separate repository at build time).
